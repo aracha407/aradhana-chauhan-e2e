@@ -1,6 +1,9 @@
 # aradhana-chauhan-e2e
-After cloning the code.
-Please do Extract the node_modules file and cut,paste the node_modules and delete the node_modules zip file
-install cypress and lauching of cypress with below commands in cmd
--- npm i
--- npm run cypress in the extract the files.
+
+# Steps to extract and execute the Code :
+- Clone the code.
+- Extract the node_modules file then Rename & Enter into the node_modules file.
+- Next cut & paste the node_modules file inside it and delete the node_modules zip file, renamed file.
+- install cypress and lauching of cypress with below commands in cmd
+- npm i
+- npm run cypress in the extract the files.
